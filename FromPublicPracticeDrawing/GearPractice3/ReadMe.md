@@ -1,1 +1,2 @@
-
+Design from Deepak Verma at https://www.youtube.com/watch?v=tmDUeAAckSY
+I think learning proper annotation would make my attempt at the design better. While i did properly do the gear to all specifications, the annotation he does is far more useful for the purpose of giving someone this gear to actually make. I'll start trying to annotate the designs I make and the practice exams I do as practice for more useful applications.
