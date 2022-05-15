@@ -1,1 +1,2 @@
-
+This design was found from Anket Kemtekar at https://www.youtube.com/watch?v=B3UozAoME-M
+I'm understanding the software a lot better to the point that this one was extremely quick to replicate. There were some slightly annoying parts where it was less clear as to what the designer wanted, especially the keyway as to simply do a 4x8 keyway at the top of the circle would leave gap room, but I moved it down until the rectangle fully met the center circle which is what I assume the design wanted. 
