@@ -1,6 +1,6 @@
 # AutoCAD-Work
 ### Designs in AutoCAD design software
-I am currently working to become more profficient in my use of AutoCAD and other CAD softwares. The best way for this is practice, and so all my work from self designed models to publically available practice problems are included to show my current level of CAD ability. I view myself as intermediate in the 2D drafting workspace and developing in the 3D modeling workspace
+This repositiory contains my AutoCAD work. The majority of my 3D modeling work has been done with Solidworks, though this repository does still include some cruder 2D work during my earlier CAD experiences.
 #### Following Tutorial File
 In this file are works where I closely followed a tutorial. The ReadMe will include where I got the tutorial from
 #### Public Practice File
